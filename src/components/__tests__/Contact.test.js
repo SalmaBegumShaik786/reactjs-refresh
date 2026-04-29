@@ -11,7 +11,7 @@ describe("Should load Contact Us Component", () => {
     it('should  check whether component is loaded or not', () => {
         render(<Contact />);
         const heading = screen.getByRole("heading");
-        const button = screen.getBsyRole("button");
+        const button = screen.getByRole("button");
 
         expect(heading).toBeInTheDocument();
         expect(button).toBeInTheDocument();

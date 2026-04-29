@@ -39,7 +39,7 @@ const Body = () => {
         <div className='bg-gray-50 px-16'>
             <div className="filter-container">
                 <div className="search m-4 p-4">
-                    <input type="text" className="border border-solid border-black"
+                    <input data-testid="searchInput" type="text" className="border border-solid border-black"
                         value={searchText} onChange={
                             (e) => {
                                 setSearchText(e.target.value);

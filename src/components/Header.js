@@ -1,6 +1,5 @@
 import { useState, useEffect, useContext } from 'react';
 import { Link } from 'react-router-dom';
-import foodImg from 'url:../images/food.png';
 import useOnlineStatus from '../utils/useOnlineStatus';
 import UserContext from '../utils/userContext';
 import { useSelector } from 'react-redux';
@@ -8,7 +7,7 @@ import { useSelector } from 'react-redux';
 const Logo = () => {
     return (
         <div className="w-40">
-            <img className="logo" src={foodImg} alt="logo" />
+            <img className="logo" src="../images/food.png" alt="logo" />
         </div>
     )
 }
