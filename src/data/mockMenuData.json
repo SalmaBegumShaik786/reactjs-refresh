@@ -1,0 +1,2190 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Mega Biryani",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "523159",
+              "name": "Mega Biryani",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "mega-biryani-frazer-town-frazer-town-2",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "gd1h9sz5hkwxq79xflez",
+              "locality": "Frazer Town",
+              "areaName": "Shivajinagar",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 for two",
+              "cuisines": [
+                "Biryani",
+                "Hyderabadi"
+              ],
+              "avgRating": 3.2,
+              "feeDetails": {
+                "restaurantId": "523159",
+                "fees": [
+                  {}
+                ]
+              },
+              "parentId": "20048",
+              "avgRatingString": "3.2",
+              "totalRatingsString": "3 ratings",
+              "sla": {
+                "restaurantId": "523159",
+                "deliveryTime": 52,
+                "minDeliveryTime": 50,
+                "maxDeliveryTime": 60,
+                "lastMileTravel": 4.1,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_IT_IS_LONG_DISTANCE",
+                "zoneId": 68,
+                "slaString": "50-60 MINS",
+                "lastMileTravelString": "4.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-04-23 01:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "Flat ₹75 off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Flat ₹75 off | Use FLAT75",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off| Use NEWJOY",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Flat ₹75 off | Use FLAT75",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off| Use NEWJOY",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "mega-biryani-frazer-town-frazer-town-2",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "NO.60/1, 1ST FLOOR, CLOSE ROAD, FRAZER TOWN, BANGALORE., Shivajinagara, B.B.M.P East, Karnataka-560005"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Biryani,Hyderabadi"
+                }
+              ],
+              "totalRatings": 3,
+              "aggregatedDiscountInfoV2": {
+                "header": "Flat ₹75 off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Flat ₹75 off | Use FLAT75",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off| Use NEWJOY",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Flat ₹75 off | Use FLAT75",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off| Use NEWJOY",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 244,
+                  "maxValue": 349,
+                  "priority": 1,
+                  "couponCode": "FLAT75",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 75
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to save ₹75 | Code FLAT75",
+                  "unlockedMessage": "FLAT75 Coupon Unlocked! Use it to save ₹75",
+                  "logoCtx": {},
+                  "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                },
+                {
+                  "minValue": 594,
+                  "maxValue": 849,
+                  "priority": 2,
+                  "couponCode": "NEWJOY",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 200
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to save ₹200 | Code NEWJOY",
+                  "unlockedMessage": "NEWJOY Coupon Unlocked! Use it to save ₹200",
+                  "logoCtx": {},
+                  "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/523159"
+              },
+              "ratingSlab": "RATING_SLAB_4",
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.994739,77.61505",
+              "backgroundImageOverlayInfo": {},
+              "featuredSectionInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+            "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              }
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "Extra ₹50 off",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/1/12/96c82e26-2baa-4216-985d-f97a215fdde2_d07196b25b85d1fd9951e10c255ab737.avif",
+                      "offerIds": [
+                        "47970005-635b-423b-b214-0b6213f917dc"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "description": "NO CODE REQUIRED | ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "523159",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/1/12/96c82e26-2baa-4216-985d-f97a215fdde2_d07196b25b85d1fd9951e10c255ab737.avif",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹75 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "4871f26f-690d-4e05-93f4-66cbd70a9f50"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT75",
+                      "description": "ABOVE ₹349",
+                      "offerType": "offers",
+                      "restId": "523159",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAT75"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹200 OFF",
+                      "offerTag": "DEFAULT",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "608aac8a-2d1f-456b-9e70-1b94f3048b90"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE NEWJOY",
+                      "description": "ABOVE ₹849",
+                      "offerType": "offers",
+                      "restId": "523159",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE NEWJOY"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹50",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "eddad7e4-6256-41d4-9ba0-92b3362afe2d"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE SWIGGYIT",
+                      "description": "ABOVE ₹179",
+                      "offerType": "offers",
+                      "restId": "523159",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE SWIGGYIT"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹100",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/4/6/cd8fcf05-e083-40ea-a423-482c02dda360_IndusInd.png",
+                      "offerIds": [
+                        "4e26916b-d0f7-48a8-9f1f-c5c20cba575a"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE INDUSCC100",
+                      "description": "ABOVE ₹799",
+                      "offerType": "offers",
+                      "restId": "523159",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/4/6/cd8fcf05-e083-40ea-a423-482c02dda360_IndusInd.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE INDUSCC100"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294180",
+                              "name": "Sweet Lassi",
+                              "category": "Beverages",
+                              "description": "Serves 1 | Classic Lassi - Chilled.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):223, Protein(g): 24, Carbohydrate(g): 22, Fat (g):5\"",
+                              "imageId": "gplhj8dthmmsvb4pybe9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7300,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "imageBadges": [
+                                {
+                                  "imageId": "merch_bau/High%20Protein%201_1.png"
+                                }
+                              ],
+                              "parentId": "47206618",
+                              "menuFilterIds": [
+                                "EATRIGHT",
+                                "VEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294181",
+                              "name": "Dry Fruit Lassi",
+                              "category": "Beverages",
+                              "description": "Serves 1 | Classic Lassi, blended with Dry Fruit.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):287, Protein(g): 25, Carbohydrate(g): 29, Fat (g):8\"",
+                              "imageId": "bhs9ipdh7qebylefiuyj",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9100,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "1 rating",
+                                  "ratingCountV2": "1"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "imageBadges": [
+                                {
+                                  "imageId": "merch_bau/High%20Protein%201_1.png"
+                                }
+                              ],
+                              "parentId": "47206610",
+                              "menuFilterIds": [
+                                "EATRIGHT",
+                                "VEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED",
+                      "subtitleSuffix": {},
+                      "categoryId": "-1"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Hyderabadi Bucket Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294168",
+                              "name": "Chicken Tikka Boneless Bucket Biryani (serves 3)",
+                              "category": "Hyderabadi Bucket Biryani",
+                              "description": "Serves 3 | Marinated and perfectly grilled chicken tikka nuggets in layers of basmati rice and caramelised onions.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/9/fd8662a7-5fdb-4232-82d5-82172281c118_1d97909a-cd62-4aee-86ba-2ed753eee5c1_compressed",
+                              "inStock": 1,
+                              "price": 98900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "1 rating",
+                                  "ratingCountV2": "1"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "114394067",
+                              "menuFilterIds": [
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294170",
+                              "name": "Butter Paneer Bucket Biryani (serves 3)",
+                              "category": "Hyderabadi Bucket Biryani",
+                              "description": "Serves 3 | This recipe is carefully crafted to blend in all the flavors from the dum biryani with delicate chunks of Paneer cooked in silky makhni gravy. Served with Mirchi ka Salan and creamy veggie raita.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/9/03eb076f-18b0-437d-92c6-9e69eeb2f00b_4586dcaf-80ae-48b7-9f7f-7a16c49aa5a7_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 89900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "39507692",
+                              "menuFilterIds": [
+                                "VEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/3/9/fd8662a7-5fdb-4232-82d5-82172281c118_1d97909a-cd62-4aee-86ba-2ed753eee5c1_compressed",
+                      "categoryId": "22013519"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Bagara Bucket Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294171",
+                              "name": "Chicken Boneless Bagara Bucket Biryani",
+                              "category": "Bagara Bucket Biryani",
+                              "description": "Serves 3 | Aromatic Basmati Rice cooked in Ghee, caramelized onion and mild spices - paired with juicy boneless chicken chunks cooked in the right blend of Indian masalas.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/9/628276e6-c28a-4e97-b583-9938e1ae5a9c_5921bb64-1921-498e-8968-173d5e2c45cd_compressed",
+                              "inStock": 1,
+                              "price": 99900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "44520693",
+                              "menuFilterIds": [
+                                "NONVEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294173",
+                              "name": "Butter Paneer Bagara Bucket Biryani (serves 3)",
+                              "category": "Bagara Bucket Biryani",
+                              "description": "Serves 3 | Mildly spiced fine grained Basmati Rice cooked in Ghee paired with well marinated Paneer cooked in homestyle makhni gravy.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/9/0b7b5d51-bc28-47a9-b0f0-94546e78794c_2b354583-44c2-457c-9d09-bd38749c8066_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 89900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 3"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "39507691",
+                              "menuFilterIds": [
+                                "VEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/3/9/628276e6-c28a-4e97-b583-9938e1ae5a9c_5921bb64-1921-498e-8968-173d5e2c45cd_compressed",
+                      "categoryId": "22013520"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Starters",
+                      "categories": [
+                        {
+                          "title": "Non Veg Starters",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "164950993",
+                                  "name": "Chicken Lollipop - 6pc",
+                                  "category": "Starters",
+                                  "description": "Serves 1 | Succulent Chicken lollipops with a hot, smoky kick served with green chutney.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/1/246e6dda-5607-4f09-ad54-29a3ab19ae3b_aaa30a2f-ddad-4eca-a631-cc456d8a384c.jpg",
+                                  "inStock": 1,
+                                  "price": 29900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "99324008",
+                                  "menuFilterIds": [
+                                    "NONVEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {},
+                          "categoryId": "48009428"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/3/1/246e6dda-5607-4f09-ad54-29a3ab19ae3b_aaa30a2f-ddad-4eca-a631-cc456d8a384c.jpg",
+                      "categoryId": "48009427"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Biryani Meals",
+                      "categories": [
+                        {
+                          "title": "Non-veg",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "145016699",
+                                  "name": "Chicken Tikka Masala Boneless Bagara Pulav Meal",
+                                  "category": "Biryani Meals",
+                                  "description": "Serves 1 | Indulge in aromatic chicken tikka masala alongside fragrant Bagara rice. Served with cooling raita, tangy mirchi ka salan, and ambrosial payasam.",
+                                  "imageId": "b9a22e7e3e57f4b03bc63bf052b0f82e",
+                                  "inStock": 1,
+                                  "price": 29900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "163731381",
+                                      "groupName": "Meal Boosters",
+                                      "choices": [
+                                        {
+                                          "id": "120164386",
+                                          "name": "Vegetable Sambar (350 ml)",
+                                          "price": 8900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164385",
+                                          "name": "Rasam (350 ml)",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731382",
+                                      "groupName": "Savoury Sides",
+                                      "choices": [
+                                        {
+                                          "id": "120164381",
+                                          "name": "Guntur Chicken Dry (380 Gms)",
+                                          "price": 31400,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164383",
+                                          "name": "Paneer pakoda (Full)",
+                                          "price": 14900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489337",
+                                          "name": "Boneless Chicken Kebab (Half)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489351",
+                                          "name": "Hara Bhara Kebab (Full)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164387",
+                                          "name": "Andhra Chicken Curry (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164390",
+                                          "name": "Boneless Chicken Kebab (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 6,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731383",
+                                      "groupName": "Desserts",
+                                      "choices": [
+                                        {
+                                          "id": "120164382",
+                                          "name": "Ghee Gulab Jamun (2pcs)",
+                                          "price": 4000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489354",
+                                          "name": "Payasam (100 ml)",
+                                          "price": 1900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489346",
+                                          "name": "Dry Fruit Rabdi",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164389",
+                                          "name": "Rabdi",
+                                          "price": 5000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731384",
+                                      "groupName": "Beverages",
+                                      "choices": [
+                                        {
+                                          "id": "115489356",
+                                          "name": "Pepsi (475 ml)",
+                                          "price": 6000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489342",
+                                          "name": "Sweet Lassi",
+                                          "price": 5900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489358",
+                                          "name": "Mango Lassi",
+                                          "price": 4500,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489359",
+                                          "name": "Dry Fruit Lassi",
+                                          "price": 7900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "114394068",
+                                  "menuFilterIds": [
+                                    "NONVEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "145016700",
+                                  "name": "Chicken Tikka Masala Boneless Biryani Rice Meal",
+                                  "category": "Biryani Meals",
+                                  "description": "Serves 1 | Relish flavourful chicken tikka masala paired with aromatic biryani rice. Complete with soothing raita, zesty mirchi ka salan, and heavenly payasam.",
+                                  "imageId": "2c1eff7b492e40d5b1450fbc743f3e4b",
+                                  "inStock": 1,
+                                  "price": 28900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "163731385",
+                                      "groupName": "Meal Boosters",
+                                      "choices": [
+                                        {
+                                          "id": "120164386",
+                                          "name": "Vegetable Sambar (350 ml)",
+                                          "price": 8900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164385",
+                                          "name": "Rasam (350 ml)",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731386",
+                                      "groupName": "Savoury Sides",
+                                      "choices": [
+                                        {
+                                          "id": "120164381",
+                                          "name": "Guntur Chicken Dry (380 Gms)",
+                                          "price": 31400,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164383",
+                                          "name": "Paneer pakoda (Full)",
+                                          "price": 14900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489337",
+                                          "name": "Boneless Chicken Kebab (Half)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489351",
+                                          "name": "Hara Bhara Kebab (Full)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164387",
+                                          "name": "Andhra Chicken Curry (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164390",
+                                          "name": "Boneless Chicken Kebab (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 6,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731387",
+                                      "groupName": "Desserts",
+                                      "choices": [
+                                        {
+                                          "id": "120164382",
+                                          "name": "Ghee Gulab Jamun (2pcs)",
+                                          "price": 4000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489354",
+                                          "name": "Payasam (100 ml)",
+                                          "price": 1900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489346",
+                                          "name": "Dry Fruit Rabdi",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164389",
+                                          "name": "Rabdi",
+                                          "price": 5000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731388",
+                                      "groupName": "Beverages",
+                                      "choices": [
+                                        {
+                                          "id": "115489356",
+                                          "name": "Pepsi (475 ml)",
+                                          "price": 6000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489342",
+                                          "name": "Sweet Lassi",
+                                          "price": 5900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489358",
+                                          "name": "Mango Lassi",
+                                          "price": 4500,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489359",
+                                          "name": "Dry Fruit Lassi",
+                                          "price": 7900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "114394069",
+                                  "menuFilterIds": [
+                                    "NONVEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "145016702",
+                                  "name": "Pepper Chicken Masala Bagara Pulav Meal",
+                                  "category": "Biryani Meals",
+                                  "description": "Serves 1 | Savour peppery chicken alongside aromatic Bagara rice. Served with cooling raita, tangy mirchi ka salan, and a divine payasam treat.",
+                                  "imageId": "111583b380ee18628749181c2b514040",
+                                  "inStock": 1,
+                                  "price": 29900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "163731393",
+                                      "groupName": "Meal Boosters",
+                                      "choices": [
+                                        {
+                                          "id": "120164386",
+                                          "name": "Vegetable Sambar (350 ml)",
+                                          "price": 8900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164385",
+                                          "name": "Rasam (350 ml)",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731394",
+                                      "groupName": "Savoury Sides",
+                                      "choices": [
+                                        {
+                                          "id": "120164381",
+                                          "name": "Guntur Chicken Dry (380 Gms)",
+                                          "price": 31400,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164383",
+                                          "name": "Paneer pakoda (Full)",
+                                          "price": 14900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489337",
+                                          "name": "Boneless Chicken Kebab (Half)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489351",
+                                          "name": "Hara Bhara Kebab (Full)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164387",
+                                          "name": "Andhra Chicken Curry (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164390",
+                                          "name": "Boneless Chicken Kebab (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 6,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731395",
+                                      "groupName": "Desserts",
+                                      "choices": [
+                                        {
+                                          "id": "120164382",
+                                          "name": "Ghee Gulab Jamun (2pcs)",
+                                          "price": 4000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489354",
+                                          "name": "Payasam (100 ml)",
+                                          "price": 1900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489346",
+                                          "name": "Dry Fruit Rabdi",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164389",
+                                          "name": "Rabdi",
+                                          "price": 5000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731396",
+                                      "groupName": "Beverages",
+                                      "choices": [
+                                        {
+                                          "id": "115489356",
+                                          "name": "Pepsi (475 ml)",
+                                          "price": 6000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489342",
+                                          "name": "Sweet Lassi",
+                                          "price": 5900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489358",
+                                          "name": "Mango Lassi",
+                                          "price": 4500,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489359",
+                                          "name": "Dry Fruit Lassi",
+                                          "price": 7900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "101227803",
+                                  "menuFilterIds": [
+                                    "NONVEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "145016703",
+                                  "name": "Pepper Chicken Masala Biryani Meal",
+                                  "category": "Biryani Meals",
+                                  "description": "Serves 1 | Delight in zesty pepper chicken paired with fragrant basmati rice. Complete with soothing raita,  mirchi ka salan, and ambrosial payasam.",
+                                  "imageId": "e19f0f63097f1b17dfcbfc90878cad5d",
+                                  "inStock": 1,
+                                  "price": 29900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "163731397",
+                                      "groupName": "Meal Boosters",
+                                      "choices": [
+                                        {
+                                          "id": "120164386",
+                                          "name": "Vegetable Sambar (350 ml)",
+                                          "price": 8900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164385",
+                                          "name": "Rasam (350 ml)",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731398",
+                                      "groupName": "Savoury Sides",
+                                      "choices": [
+                                        {
+                                          "id": "120164381",
+                                          "name": "Guntur Chicken Dry (380 Gms)",
+                                          "price": 31400,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164383",
+                                          "name": "Paneer pakoda (Full)",
+                                          "price": 14900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489337",
+                                          "name": "Boneless Chicken Kebab (Half)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489351",
+                                          "name": "Hara Bhara Kebab (Full)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164387",
+                                          "name": "Andhra Chicken Curry (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164390",
+                                          "name": "Boneless Chicken Kebab (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 6,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731399",
+                                      "groupName": "Desserts",
+                                      "choices": [
+                                        {
+                                          "id": "120164382",
+                                          "name": "Ghee Gulab Jamun (2pcs)",
+                                          "price": 4000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489354",
+                                          "name": "Payasam (100 ml)",
+                                          "price": 1900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489346",
+                                          "name": "Dry Fruit Rabdi",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164389",
+                                          "name": "Rabdi",
+                                          "price": 5000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731400",
+                                      "groupName": "Beverages",
+                                      "choices": [
+                                        {
+                                          "id": "115489356",
+                                          "name": "Pepsi (475 ml)",
+                                          "price": 6000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489342",
+                                          "name": "Sweet Lassi",
+                                          "price": 5900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489358",
+                                          "name": "Mango Lassi",
+                                          "price": 4500,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489359",
+                                          "name": "Dry Fruit Lassi",
+                                          "price": 7900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "85625939",
+                                  "menuFilterIds": [
+                                    "NONVEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "145016705",
+                                  "name": "Guntur Chicken Curry Bagara Meal",
+                                  "category": "Biryani Meals",
+                                  "description": "Serves 1 | Experience fiery Guntur chicken alongside fragrant Bagara rice. Served with soothing raita, tangy mirchi ka salan, and heavenly payasam.",
+                                  "imageId": "c5a1c9f6f8fc7cefb1c6afdb2d3c84ab",
+                                  "inStock": 1,
+                                  "price": 28900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "163731405",
+                                      "groupName": "Meal Boosters",
+                                      "choices": [
+                                        {
+                                          "id": "120164386",
+                                          "name": "Vegetable Sambar (350 ml)",
+                                          "price": 8900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164385",
+                                          "name": "Rasam (350 ml)",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731406",
+                                      "groupName": "Savoury Sides",
+                                      "choices": [
+                                        {
+                                          "id": "120164381",
+                                          "name": "Guntur Chicken Dry (380 Gms)",
+                                          "price": 31400,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164383",
+                                          "name": "Paneer pakoda (Full)",
+                                          "price": 14900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489337",
+                                          "name": "Boneless Chicken Kebab (Half)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489351",
+                                          "name": "Hara Bhara Kebab (Full)",
+                                          "price": 9900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164387",
+                                          "name": "Andhra Chicken Curry (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164390",
+                                          "name": "Boneless Chicken Kebab (Full)",
+                                          "price": 24900,
+                                          "inStock": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 6,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731407",
+                                      "groupName": "Desserts",
+                                      "choices": [
+                                        {
+                                          "id": "120164382",
+                                          "name": "Ghee Gulab Jamun (2pcs)",
+                                          "price": 4000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489354",
+                                          "name": "Payasam (100 ml)",
+                                          "price": 1900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489346",
+                                          "name": "Dry Fruit Rabdi",
+                                          "price": 6000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "120164389",
+                                          "name": "Rabdi",
+                                          "price": 5000,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "163731408",
+                                      "groupName": "Beverages",
+                                      "choices": [
+                                        {
+                                          "id": "115489356",
+                                          "name": "Pepsi (475 ml)",
+                                          "price": 6000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489342",
+                                          "name": "Sweet Lassi",
+                                          "price": 5900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489358",
+                                          "name": "Mango Lassi",
+                                          "price": 4500,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "115489359",
+                                          "name": "Dry Fruit Lassi",
+                                          "price": 7900,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 4,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "85625934",
+                                  "menuFilterIds": [
+                                    "NONVEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {},
+                          "categoryId": "50268764"
+                        }
+                      ],
+                      "image": "b9a22e7e3e57f4b03bc63bf052b0f82e",
+                      "categoryId": "50268762"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "181765692",
+                              "name": "Payasam (200 g)",
+                              "category": "Desserts",
+                              "description": "Serves 1 | Payasam of the Day",
+                              "imageId": "d3af1638b216b7dd27020a1d64a5adee",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "109686274",
+                              "menuFilterIds": [
+                                "VEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294179",
+                              "name": "Ghee Gulab Jamun (4 Pcs)",
+                              "category": "Desserts",
+                              "description": "Serves 1 | Khoya rich dumplings are deep fried and then given a soaking in sugar syrup.",
+                              "imageId": "nwr4e3l5gdqh1lkffoyw",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "1 rating",
+                                  "ratingCountV2": "1"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "55288020",
+                              "menuFilterIds": [
+                                "VEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "90294185",
+                              "name": "Ghee Gulab Jamun (2 Pcs)",
+                              "category": "Desserts",
+                              "description": "Serves 1 | Khoya rich dumplings are deep fried and then given a soaking in sugar syrup.",
+                              "imageId": "i6wqvnqigzfkkbgxkvxp",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "55288019",
+                              "menuFilterIds": [
+                                "VEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "171980722",
+                              "name": "Tender Coconut Pudding",
+                              "category": "Desserts",
+                              "description": "Serves 1 | A delicately set pudding made from fresh, tender coconut water and creamy coconut milk, offering a smooth, melt-in-the-mouth texture. Light, refreshing, and soul-soothing—this chilled dessert is perfect for any time of the day, especially after a hearty meal.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/16/6cf5fd28-16dc-4d01-86a4-13406dc4c376_7280772a-1916-40fe-bb9b-f939aea9606b.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "103714231",
+                              "menuFilterIds": [
+                                "VEG"
+                              ],
+                              "priceComparisonComms": {}
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "d3af1638b216b7dd27020a1d64a5adee",
+                      "categoryId": "22013522"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Beverages",
+                      "categories": [
+                        {
+                          "title": "Healthy Beverages",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "90294180",
+                                  "name": "Sweet Lassi",
+                                  "category": "Beverages",
+                                  "description": "Serves 1 | Classic Lassi - Chilled.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):223, Protein(g): 24, Carbohydrate(g): 22, Fat (g):5\"",
+                                  "imageId": "gplhj8dthmmsvb4pybe9",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 7300,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                  ],
+                                  "parentId": "47206618",
+                                  "menuFilterIds": [
+                                    "EATRIGHT",
+                                    "VEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "90294182",
+                                  "name": "Mango Lassi",
+                                  "category": "Beverages",
+                                  "description": "Serves 1 | Classic lassi churned with mango pulp.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):195, Protein(g): 14, Carbohydrate(g): 29, Fat (g):3\"",
+                                  "imageId": "kp2fejjkf13mbmzxqqyr",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 8400,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "47206612",
+                                  "menuFilterIds": [
+                                    "VEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "90294181",
+                                  "name": "Dry Fruit Lassi",
+                                  "category": "Beverages",
+                                  "description": "Serves 1 | Classic Lassi, blended with Dry Fruit.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):287, Protein(g): 25, Carbohydrate(g): 29, Fat (g):8\"",
+                                  "imageId": "bhs9ipdh7qebylefiuyj",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9100,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "5.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                  ],
+                                  "parentId": "47206610",
+                                  "menuFilterIds": [
+                                    "EATRIGHT",
+                                    "VEG",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "167767758",
+                                  "name": "Gulab (Rose) Lassi",
+                                  "category": "Beverages",
+                                  "description": "Serves 1 | Rose-flavoured yoghurt drink that's refreshing and cooling - perfect for warm evenings.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/11/186c39e3-5f8c-4118-afe1-b5887c9d1938_526a40ce-47b5-43fc-899f-d96c14e9c24c.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 8400,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "100692031",
+                                  "menuFilterIds": [
+                                    "VEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "135922101",
+                                  "name": "Masala Moru (Buttermilk) (For 2)",
+                                  "category": "Beverages",
+                                  "description": "Serves 1 | with Fresh Spices.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/6/eeea11e8-28eb-4afc-a990-85f8ef273324_1bd1b291-8e8a-441d-8ba5-26e28d511aaf_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 4900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "79651012",
+                                  "menuFilterIds": [
+                                    "VEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {},
+                          "categoryId": "46329139"
+                        },
+                        {
+                          "title": "Soft Drinks",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "127924145",
+                                  "name": "Pepsi Pet Bottle (475 ml)",
+                                  "category": "Beverages",
+                                  "description": "Serves 1 | Sparkling and Refreshing Pepsi 475 ml.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/5/83fe6e13-e60f-4886-bab0-fe7a34f915de_7b5ff1b9-f624-4e86-88f2-d5c8e5563270.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 5700,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "parentId": "74159077",
+                                  "menuFilterIds": [
+                                    "VEG"
+                                  ],
+                                  "priceComparisonComms": {}
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {},
+                          "categoryId": "22013524"
+                        }
+                      ],
+                      "image": "gplhj8dthmmsvb4pybe9",
+                      "categoryId": "22013521"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 11221333000919"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Mega Biryani",
+                      "area": "Shivajinagar",
+                      "completeAddress": "NO.60/1, 1ST FLOOR, CLOSE ROAD, FRAZER TOWN, BANGALORE., Shivajinagara, B.B.M.P East, Karnataka-560005"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "84af22fd-7543-4fa9-83c4-8a8bdaafb2c2",
+  "sid": "qxu62ab22f8-58b7-47d3-a790-722998dcc",
+  "deviceId": "0998346e-a5d6-1d07-b8de-b42f64a09e16",
+  "csrfToken": "kQmPb5WYTbZR-0GUJ2xO7yd6JpCyqy_2rZpBGC5s"
+}
+
